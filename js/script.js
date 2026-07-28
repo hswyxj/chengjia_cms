@@ -1,7 +1,4 @@
 /**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://facebook.com/themefisher
  * GITHUB: https://github.com/hswyxj/
  */
 
